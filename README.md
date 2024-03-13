@@ -1,8 +1,6 @@
 # 👍 Pickgether
 ![Cover](https://github.com/Kim-Moon-Sung/capstone-pickgether/assets/103942182/d562261d-96d8-4944-83a4-6ded4f8635ae)
 
-🔗 **Link**: https://pickgether.shop *(현재 서비스 중)*
-
 ---
 ## 💡 Topic
 &nbsp;「장래가구추계: 2020~2050년」 조사에 따르면 현재 1인 가구 비율은 점차 증가하는 추세이며 2050년에는 전체 인구의 39.6%가 1인 가구일 것으로 예상하고 있다. 이런 1인 가구를 위해 __SNS__ 가 사회관계 결핍을 해소하고 부정적인 감정을 해소시켜 준다는 연구결과가 존재한다.<br>
