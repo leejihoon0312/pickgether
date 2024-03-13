@@ -97,4 +97,4 @@
 
 
 ## 🎥 Youtube
-*추후 업로드 예정*
+https://youtu.be/qycdPJG3tes?si=UJ3X57ttbyiibl6A
